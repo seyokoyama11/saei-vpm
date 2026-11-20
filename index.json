@@ -1,0 +1,25 @@
+{
+  "name": "studio saei.",
+  "id": "jp.studiosaei.vpm",
+  "author": "studio saei.",
+  "url": "https://seyokoyama11.github.io/saei-vpm/index.json",
+  "packages": {
+    "jp.studiosaei.vpm-smoke": {
+      "versions": {
+        "0.1.0": {
+          "name": "jp.studiosaei.vpm-smoke",
+          "displayName": "studio saei. VPM Smoke Test",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "A small Editor-only package to verify the studio saei. distribution workflow.",
+          "author": {
+            "name": "studio saei."
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/seyokoyama11/saei-vpm/releases/download/jp.studiosaei.vpm-smoke-0.1.0/jp.studiosaei.vpm-smoke-0.1.0.zip",
+          "zipSHA256": "146cc138bb611eb1cbf82f2d46c5e2adfbc2bc064cff97c6e29d8f344a47299b"
+        }
+      }
+    }
+  }
+}
