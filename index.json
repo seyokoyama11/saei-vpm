@@ -20,6 +20,50 @@
           "zipSHA256": "146cc138bb611eb1cbf82f2d46c5e2adfbc2bc064cff97c6e29d8f344a47299b"
         }
       }
+    },
+    "jp.studiosaei.outfit-dissolve": {
+      "versions": {
+        "0.1.0": {
+          "name": "jp.studiosaei.outfit-dissolve",
+          "displayName": "studio saei. Outfit Dissolve",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "Top-down dissolve between two VRChat avatar outfit sets with shared items. PC; Modular Avatar and lilToon.",
+          "author": {
+            "name": "studio saei."
+          },
+          "license": "MIT",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.10.6-beta.3",
+            "nadena.dev.modular-avatar": "1.19.0-alpha.2",
+            "nadena.dev.ndmf": "1.15.0-beta.2",
+            "jp.lilxyzw.liltoon": "2.4.1"
+          },
+          "url": "https://github.com/seyokoyama11/saei-vpm/releases/download/jp.studiosaei.outfit-dissolve-0.1.0/jp.studiosaei.outfit-dissolve-0.1.0.zip",
+          "legacyFiles": {
+            "Assets/studio_saei/OutfitDissolve/LICENSE.txt": "9e6188455c7f1894bb9f609935a6563b",
+            "Assets/studio_saei/OutfitDissolve/README_ja.txt": "fbb44d43f654511459c6aada6aca90c0",
+            "Assets/studio_saei/OutfitDissolve/Editor/OutfitDissolveBuilder.cs": "4cdfb256e59f5004c8ba524092571fbb",
+            "Assets/studio_saei/OutfitDissolve/Editor/OutfitDissolveInspector.cs": "c76487d205fe27a4099922c2062bea28",
+            "Assets/studio_saei/OutfitDissolve/Editor/StudioSaei.OutfitDissolve.Editor.asmdef": "7a5514515ff461544b781cc5057ff8c3",
+            "Assets/studio_saei/OutfitDissolve/Prefabs/OutfitDissolve.prefab": "90dad6c4533b8474eb6cbd1ee5692eca",
+            "Assets/studio_saei/OutfitDissolve/Runtime/OutfitDissolve.cs": "6f4867adeb5dad74c9fa6993c1375884",
+            "Assets/studio_saei/OutfitDissolve/Runtime/StudioSaei.OutfitDissolve.asmdef": "7379d97d4cb325c4ebf497b64c6dd784",
+            "Assets/studio_saei/OutfitDissolve/Shaders/Cutout.shader": "61b69680dd06ec64da977f5e1cfa3471",
+            "Assets/studio_saei/OutfitDissolve/Shaders/CutoutOutline.shader": "e8de4fed7eec39b4091e64bb1029ddf8",
+            "Assets/studio_saei/OutfitDissolve/Shaders/CutoutPass.shader": "0e8b921aae5886c43b5b292aa75478b0",
+            "Assets/studio_saei/OutfitDissolve/Shaders/lilToon-LICENSE.txt": "ddfa0e5bf2f7d3248852e7519c3d845f",
+            "Assets/studio_saei/OutfitDissolve/Shaders/Refraction.shader": "745ccfdd3cf32da4c9244aa3d3bd0f1a",
+            "Assets/studio_saei/OutfitDissolve/Shaders/Transparent.shader": "e6b891f1286f34241949725a6814d1c9",
+            "Assets/studio_saei/OutfitDissolve/Shaders/TransparentOutline.shader": "d445cd828ed21944e9c886f622792525",
+            "Assets/studio_saei/OutfitDissolve/Shaders/TransparentPass.shader": "7edcbba5ea7aec1429fed62251ab5ff9",
+            "Assets/studio_saei/OutfitDissolve/Shaders/WorldHeightDissolve.hlsl": "58c9b7cfd82a73a489a68d334663b595",
+            "Assets/studio_saei/OutfitDissolve/Editor/OutfitDissolveMenu.cs": "f0e1f01ddbf749be97bb2bcf48a66360",
+            "Assets/studio_saei/OutfitDissolve/VALIDATION_ja.txt": "56af48e903b09084aa43839cea12aab9"
+          },
+          "zipSHA256": "268f1e497c83a751b8da0390049feab27160158586b12f155015537cdcd0a118"
+        }
+      }
     }
   }
 }
