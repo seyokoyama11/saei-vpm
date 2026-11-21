@@ -144,6 +144,27 @@
           "zipSHA256": "7581566cb87bf4f2f38da0b10a4a197c4b6e1584f503ea120b137637df5a8359"
         }
       }
+    },
+    "jp.studiosaei.null-edge": {
+      "versions": {
+        "0.1.0-alpha.1": {
+          "name": "jp.studiosaei.null-edge",
+          "displayName": "studio saei. NULL EDGE",
+          "version": "0.1.0-alpha.1",
+          "unity": "2022.3",
+          "description": "PC VR avatar energy blade for studio saei.",
+          "author": {
+            "name": "studio saei."
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.5",
+            "nadena.dev.modular-avatar": ">=1.18.7",
+            "jp.lilxyzw.liltoon": ">=2.3.4"
+          },
+          "url": "https://github.com/seyokoyama11/saei-vpm/releases/download/jp.studiosaei.null-edge-0.1.0-alpha.1/jp.studiosaei.null-edge-0.1.0-alpha.1.zip",
+          "zipSHA256": "a803460a84217f49f6ab252221546514e1fd99419bec9269be76bd9cf513be56"
+        }
+      }
     }
   }
 }
