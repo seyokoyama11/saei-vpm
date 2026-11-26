@@ -188,6 +188,26 @@
           "zipSHA256": "d25275f413690ef385a847fcf043e954544c379a1ff95a6ff31985ea118d2f19"
         }
       }
+    },
+    "jp.studiosaei.live-ring": {
+      "versions": {
+        "0.1.0": {
+          "name": "jp.studiosaei.live-ring",
+          "displayName": "studio saei. Live Ring",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "Avatar concert signage, audience particles and microphone placement.",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.5",
+            "nadena.dev.modular-avatar": ">=1.18.7",
+            "nadena.dev.ndmf": ">=1.14.8",
+            "jp.lilxyzw.liltoon": ">=2.3.4",
+            "jp.whiteflare.unlitwf": ">=2.11.0"
+          },
+          "url": "https://github.com/seyokoyama11/saei-vpm/releases/download/jp.studiosaei.live-ring-0.1.0/jp.studiosaei.live-ring-0.1.0.zip",
+          "zipSHA256": "e859ae2a1e5cf17b2a80abea9daa7bda45e39a02052c493ffd257dca06503397"
+        }
+      }
     }
   }
 }
